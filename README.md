@@ -1,5 +1,7 @@
 # Reunion_1
 
+Problem Statement:
+
 A person’s creditworthiness is often associated (conversely) with the likelihood they may default on loans. 
 
 We’re giving you anonymized data on about 1000 loan applications, along with a certain set of attributes about the applicant itself, and whether they were considered high risk.
